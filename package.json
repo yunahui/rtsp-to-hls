@@ -1,0 +1,21 @@
+{
+  "name": "rtsp-to-hls",
+  "license": "MIT",
+  "version": "0.1.0",
+  "description": "RTSP to HLS converter using FFmpeg",
+  "keywords": [
+    "rtsp",
+    "hls",
+    "ffmpeg",
+    "video",
+    "streaming"
+  ],
+  "author": "yunahui",
+  "packageManager": "pnpm@10.15.1",
+  "scripts": {
+    "dev": "pnpm -r --filter @apps/* dev"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@apps/web",
+  "version": "0.1.0",
+  "author": "yunahui",
+  "packageManager": "pnpm@10.15.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@emotion/styled": "^11.14.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react-swc": "^4.0.1",
+    "sass": "^1.92.1",
+    "vite": "^7.1.4",
+    "vite-tsconfig-paths": "^5.1.4"
+  }
+}
