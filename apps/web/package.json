@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "@emotion/styled": "^11.14.1",
+    "@shared/common": "workspace:*",
+    "axios": "^1.11.0",
+    "hls.js": "^1.6.11",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },

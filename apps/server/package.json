@@ -12,9 +12,13 @@
     "@nestjs/common": "^11.1.6",
     "@nestjs/core": "^11.1.6",
     "@nestjs/platform-express": "^11.1.6",
-    "express": "^5.1.0"
+    "@nestjs/serve-static": "^5.0.3",
+    "@shared/common": "workspace:*",
+    "express": "^5.1.0",
+    "fluent-ffmpeg": "^2.1.3"
   },
   "devDependencies": {
-    "@nestjs/cli": "^11.0.10"
+    "@nestjs/cli": "^11.0.10",
+    "@types/fluent-ffmpeg": "^2.1.27"
   }
 }

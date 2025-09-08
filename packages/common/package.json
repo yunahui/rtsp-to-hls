@@ -1,0 +1,13 @@
+{
+  "name": "@shared/common",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "packageManager": "pnpm@10.15.1",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "class-validator": "^0.14.2"
+  }
+}
